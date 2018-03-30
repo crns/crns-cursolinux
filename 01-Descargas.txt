@@ -27,3 +27,6 @@ Fedora 27 Workstation:
 https://getfedora.org/es/workstation/download/
 Descarga por torrent:
 https://torrent.fedoraproject.org/
+
+Link de descarga de este documento:
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/crns/crns-cursolinux/blob/master/01-Descargas.txt
